@@ -1,0 +1,64 @@
+{
+    "city_info": [
+        {
+            "city": "Toronto",
+            "state": "Ontario",
+            "population": "6.8 million"
+        },
+        {
+            "city": "St.John's",
+            "state": "Newfoundland and Labrador",
+            "population": "1.1 million"
+        },
+        {
+            "city": "Kingston",
+            "state": "Ontario",
+            "population": "0.5 million"
+        },
+        {
+            "city": "Winnipeg",
+            "state": "Manitoba",
+            "population": "7.7 million"
+        },
+        {
+            "city": "Hamilton",
+            "state": "Ontario",
+            "population": "7.35 million"
+        },
+        {
+            "city": "Montreal",
+            "state": "Qu\u00e9bec",
+            "population": "4.2 million"
+        },
+        {
+            "city": "Calgary",
+            "state": "Alberta",
+            "population": "1.4 million"
+        },
+        {
+            "city": "Coimbatore",
+            "state": "Tamil Nadu",
+            "population": "1.5 million"
+        },
+        {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "population": "7.8 million"
+        },
+        {
+            "city": "Hyderabad",
+            "state": "Telungana",
+            "population": "7.7 million"
+        },
+        {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "population": "8.44 million"
+        },
+        {
+            "city": "Trivandrum",
+            "state": "Kerala",
+            "population": "1.68 million"
+        }
+    ]
+}
